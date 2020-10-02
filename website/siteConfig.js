@@ -67,7 +67,7 @@ const siteConfig = {
     enableUpdateTime: true,
 
     socialMedia: {
-        linkedin: 'https://www.linkedin.com/in/arunaprabakar/',
+        linkedin: 'arunaprabakar',
         twitter: 'aprabakar1110',
         github: 'aprabakar1110',
     },
