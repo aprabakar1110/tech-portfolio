@@ -12,7 +12,7 @@
 const users = [];
 
 const siteConfig = {
-    title: 'Rosemary Wang', // Title for your website.
+    title: 'Aruna Prabakar', // Title for your website.
     tagline: 'I am facilitating a workshop for vGHC20!',
     profilePhoto: 'img/profile.png',
     url: 'https://aprabakar1110.github.io', // Your website URL
